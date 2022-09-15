@@ -10,3 +10,6 @@ Made this project using solidity , react , web3 , ipfs and a test blockchain of 
 4. Download, install and run truffle suite ganache app.
 5. ```truffle migrate --reset```
 6. ```npm run start```
+
+
+Build Version - https://0007lrlf46bji8c72if4rpitv45e4bef57eoqjiu5vpqk8hd7kreslg.siasky.net/
